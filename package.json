@@ -1,0 +1,20 @@
+{
+  "name": "mind-diary-ai",
+  "version": "1.0.0",
+  "description": "AI Emotion Diary powered by Google Gemini & Firebase",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "gemini",
+    "diary",
+    "ai",
+    "firebase",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
